@@ -1,6 +1,7 @@
 {
     "name": "lio/x-log",
     "description": "日志格式化",
+    "version": "master",
     "authors": [
         {
             "name": "颜回",
