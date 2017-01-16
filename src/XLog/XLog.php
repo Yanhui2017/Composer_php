@@ -6,10 +6,10 @@
  * Time: 下午3:38
  */
 
-namespace XLog;
+namespace xlog;
 
 
-class XLog {
+class XLog extends Log{
 
     const API_ACCESS 	= "API_ACCESS";
     const API_ERROR 	= "API_ERROR";

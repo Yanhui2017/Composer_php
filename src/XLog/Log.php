@@ -6,7 +6,7 @@
  * Time: 下午8:56
  */
 
-namespace XLog;
+namespace xlog;
 /**
  * 日志处理类
  */
