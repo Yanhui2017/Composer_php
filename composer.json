@@ -1,5 +1,5 @@
 {
-    "name": "lio/x-log",
+    "name": "XLog",
     "description": "日志格式化",
     "authors": [
         {
@@ -11,6 +11,11 @@
     "autoload": {
         "psr-4": {
             "XLog\\": "src/XLog"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
         }
     }
 }
